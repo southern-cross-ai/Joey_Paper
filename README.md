@@ -7,3 +7,7 @@ This repository contains the first draft and ongoing edits of the paper:
 The main paper is in [`JoeyLLM.md`](JoeyLLM.md).  
 Contributions and feedback welcome.
 
+
+Google Doc
+https://github.com/southern-cross-ai/Joey_Paper
+
