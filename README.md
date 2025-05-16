@@ -9,5 +9,4 @@ Contributions and feedback welcome.
 
 
 Google Doc
-https://github.com/southern-cross-ai/Joey_Paper
-
+https://docs.google.com/document/d/1ZVF3aWaypTFf8Vn2WgHe6Re4kQ3aTAwrmM660EeDSgE/edit?usp=sharing
